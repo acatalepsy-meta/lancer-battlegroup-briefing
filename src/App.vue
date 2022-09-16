@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Battlegroup Higher Calling",
-          "alias": "Admiral John Smith",
+          "callsign": "Battlegroup Temple",
+          "alias": "Line Commander Zensky",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "UNS",
           "frame": "BB",
-          "mech": "New Horizon"
+          "mech": "Rachel Carson"
         },
       ],
       "header": {
@@ -118,7 +118,7 @@ export default {
         "headerTitle": "Union Navy",
         "headerSubtitle": "Space Command",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Group Mjolnir",
+        "subheaderSubtitle": "Group Perseus",
       },
       "options":{
         "eventsMarkdownPerMission": true
